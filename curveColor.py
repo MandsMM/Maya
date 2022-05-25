@@ -54,6 +54,9 @@ def color():
                 mc.setAttr(y+'.overrideEnabled',1)
                 mc.setAttr(y+'.overrideRGBColors',1)
                 mc.setAttr(y+'.overrideColorRGB',int(r),int(g),int(b)) #change the color
-                mc.confirmDialog( title='Notice', message='Colors changed')
+            mc.confirmDialog( title='Notice', message='Colors changed')
+
+
+
 
 
