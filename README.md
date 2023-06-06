@@ -1,4 +1,5 @@
 # Maya
+Welcome, most of my scripts are under NDA, but here are a few examples
 Maya based scripts
 
 #curveColor is a Maya Python file that allows the user to select multiple curves and change their color at the same time
@@ -14,3 +15,5 @@ Maya based scripts
 #Keys is a script to remove keys and zero out controls on selected
 
 #BlendWeightsPainter is a blendshape weight paint assistant, to paint half or copy and paste painting
+
+#Xray are various short scripts to help modelers to xray geometry
