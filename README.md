@@ -12,3 +12,5 @@ Maya based scripts
 #replaceCurve replaces a curve shape on a rig, or a broken curve
 
 #Keys is a script to remove keys and zero out controls on selected
+
+#BlendWeightsPainter is a blendshape weight paint assistant, to paint half or copy and paste painting
