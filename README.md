@@ -1,5 +1,5 @@
 # Maya
-Welcome, most of my scripts are under NDA, but here are a few examples
+Welcome, most of my scripts are under NDA, but here are a few example
 Maya based scripts
 
 #curveColor is a Maya Python file that allows the user to select multiple curves and change their color at the same time
